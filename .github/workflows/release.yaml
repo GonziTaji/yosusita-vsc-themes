@@ -18,7 +18,7 @@ jobs:
         with:
           node-version: '22'
 
-      - name: Package!
+      - name: Package theme
         run: npx vsce package
 
       - name: Get package file name
@@ -42,6 +42,11 @@ jobs:
         run: |
           git tag -f latest
           git push origin latest --force
+
+      - name: Rename .vsix to constant name
+        run: |
+          file=$(ls *.vsix)
+          mv "$file" yogusita-themes.vsix
 
       - name: Create or update latest release
         uses: softprops/action-gh-release@v2

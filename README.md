@@ -20,4 +20,4 @@ The original idea was to have something inspired by sakura flowers but in a dark
 
 You want to test my themes? Run:
 
-`curl -L https://github.com/GonziTaji/yosutita-vsc-themes/releases/download/latest/yogusita-themes-latest.vsix | code --install-extension -`
+`curl -L https://github.com/GonziTaji/yosutita-vsc-themes/releases/download/latest/yogusita-themes.vsix | code --install-extension -`

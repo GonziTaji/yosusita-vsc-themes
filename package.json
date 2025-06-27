@@ -4,7 +4,7 @@
 	"publisher": "Yogusita",
 	"version": "0.0.2",
 	"description": "VSCode themes made by me, for me",
-	"repository": "https://github.com/GonziTaji/yosutita-vsc-themes.git",
+	"repository": "https://github.com/GonziTaji/yosusita-vsc-themes.git",
 	"license": "WTFPL",
 	"engines": {
 		"vscode": "^1.70.0"
