@@ -18,6 +18,6 @@ The original idea was to have something inspired by sakura flowers but in a dark
 
 ## Install!
 
-You want to test my themes? Run:
+You want to try my themes? Run:
 
-`curl -L https://github.com/GonziTaji/yosutita-vsc-themes/releases/download/latest/yogusita-themes.vsix | code --install-extension -`
+`curl -L https://github.com/GonziTaji/yosusita-vsc-themes/releases/download/latest/yogusita-themes.vsix -o /tmp/yogusita-themes.vsix && code --install-extension /tmp/yogusita-themes.vsix`
