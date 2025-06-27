@@ -53,6 +53,6 @@ jobs:
         with:
           tag_name: latest
           name: Latest Release
-          files: ${{ steps.get_vsix.outputs.vsix_name }}
+          files: $file
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
