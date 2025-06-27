@@ -2,8 +2,10 @@
 	"name": "yogusita-themes",
 	"displayName": "Yogusita themes",
 	"publisher": "Yogusita",
-	"version": "0.0.1",
-	"description": "Mis temas uwu",
+	"version": "0.0.2",
+	"description": "VSCode themes made by me, for me",
+	"repository": "https://github.com/GonziTaji/yosutita-vsc-themes.git",
+	"license": "WTFPL",
 	"engines": {
 		"vscode": "^1.70.0"
 	},
@@ -15,10 +17,5 @@
 				"path": "./themes/first.json"
 			}
 		]
-	},
-	"__metadata": {
-		"installedTimestamp": 1750827532827,
-		"targetPlatform": "undefined",
-		"size": 66680
 	}
 }
