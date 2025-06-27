@@ -20,6 +20,8 @@ The original idea was to have something inspired by sakura flowers but in a dark
 
 You want to try my themes? Run:
 
+* Linux / MacOS / WSL
+
 ```bash
 curl -L https://github.com/GonziTaji/yosusita-vsc-themes/releases/download/latest/yogusita-themes.vsix -o /tmp/theme.vsix && code --install-extension /tmp/theme.vsix
 ```
