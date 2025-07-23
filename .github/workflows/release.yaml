@@ -19,7 +19,7 @@ jobs:
           node-version: '22'
 
       - name: Package theme
-        run: npx vsce package
+        run: npx @vscode/vsce package
 
       - name: Get package file name
         id: get_vsix
