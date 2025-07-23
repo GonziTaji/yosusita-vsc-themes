@@ -15,8 +15,7 @@
 				"label": "first",
 				"uiTheme": "vs-dark",
 				"path": "./themes/first.json"
-			}
-
+			},
 			{
 				"label": "first",
 				"uiTheme": "vs-light",
